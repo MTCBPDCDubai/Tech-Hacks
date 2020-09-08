@@ -48,7 +48,7 @@ Features
 #Make an alert box appear and pause the program until OK is clicked.
 >>> pyautogui.alert('This is the message to be displayed.') 
 
-# Press the Ctrl-C hotkey combination.
+## Press the Ctrl-C hotkey combination.
 >>> pyautogui.hotkey('ctrl', 'c') 
 
 ## Screenshot functions:
